@@ -16,6 +16,5 @@ A simple calculator web application that performs basic arithmetic operations.
 - JavaScript
 
 ## Screenshot
-![Calculator Screenshot](assets/screenshot.png)
+![Calculator Screenshot](assets/Screenshot.png)
 
-## Live Demo
